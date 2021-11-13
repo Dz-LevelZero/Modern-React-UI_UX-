@@ -1,3 +1,7 @@
+# Modern React UI/UX From Figma Design
+![React-Design](https://i.imgur.com/nb8gbJ6.png)
+A Fully Responsive Modern React.js UI/UX Website built according to Figma CPT-3 Design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
